@@ -1,0 +1,34 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #ffebee, #e3f2fd, #ede7f6);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  padding: 2rem 1rem;
+}
+.logo {
+  max-width: 180px;
+  display: block;
+  margin: 0 auto 1rem;
+}
+h1 {
+  font-size: 2.5rem;
+  color: #6a1b9a;
+}
+h2 {
+  color: #00796b;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 0.5rem 0;
+}
+a {
+  color: #e91e63;
+  font-weight: bold;
+}
